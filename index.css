@@ -134,3 +134,23 @@ body
    font-weight: normal;
    text-decoration: none;
 }
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#MediaPlayer1
+{
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   -webkit-animation: transform-shake 10000ms linear 1ms infinite normal both;
+   -moz-animation: transform-shake 10000ms linear 1ms infinite normal both;
+   animation: transform-shake 10000ms linear 1ms infinite normal both;
+}
